@@ -1,0 +1,12 @@
+{
+  "app": {
+    "windows": [
+      {
+        "title": "FlightCore Native Plugin Install",
+        "decorations": false,
+        "width": 1010,
+        "height": 600
+      }
+    ]
+  }
+}
